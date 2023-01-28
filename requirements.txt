@@ -1,3 +1,12 @@
 asgiref==3.6.0
+astroid==2.13.3
+dill==0.3.6
 Django==4.1.5
+isort==5.11.4
+lazy-object-proxy==1.9.0
+mccabe==0.7.0
+platformdirs==2.6.2
+pylint==2.15.10
 sqlparse==0.4.3
+tomlkit==0.11.6
+wrapt==1.14.1
